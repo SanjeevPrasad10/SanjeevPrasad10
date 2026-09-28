@@ -1,7 +1,7 @@
  Hi, I'm Sanjeev Prasad 👋
  Full-Stack Developer | MERN • PostgreSQL • Redis • Docker • AI
 
-I build production-grade web applications with a focus on high-performance backends, clean architecture, and modern AI integration. Final-year BCA student with hands-on experience shipping real-world systems.
+I build full-stack web applications with a focus on high-performance backends, clean architecture, and modern AI integration. Final-year BCA student with hands-on experience shipping real-world systems.
 
 ---
 
