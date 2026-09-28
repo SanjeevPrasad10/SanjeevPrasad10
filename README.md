@@ -5,12 +5,6 @@ I build production-grade web applications with a focus on high-performance backe
 
 ---
 
-🚀 What I'm Currently Building:
-- DevBoard: An AI-powered roadmap workspace with Redis cache-aside (sub-2ms reads) and Google Gemini ReAct loop.
-- SmartTraffic: Civic incident reporting platform with Gemini Vision image diagnosis and MongoDB geospatial (`2dsphere`) dispatch.
-- Mastering DSA in Java: 60+ solved problems focusing on Two Pointers, Sliding Window, and HashMaps.
-
----
 
 🛠️ Tech Stack & Tools i use:
 
